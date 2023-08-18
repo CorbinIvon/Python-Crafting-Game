@@ -1,0 +1,22 @@
+{
+  "Forge": {"Description": "For smelting ores into ingots, crafting weapons and armor."},
+  "Brewing Stand": {"Description": "To create potions, elixirs, and magical brews."},
+  "Alchemy Lab": {"Description": "For mixing herbs and other ingredients to create medicines or poisons."},
+  "Enchanting Table": {"Description": "To enchant weapons, armor, and tools with magical properties."},
+  "Loom": {"Description": "For weaving cloth, crafting clothing, or creating banners and tapestries."},
+  "Carpentry Bench": {"Description": "To craft wooden items such as furniture, tools, and structures."},
+  "Tanning Rack": {"Description": "For processing hides into leather, used in crafting armor and other goods."},
+  "Cooking Station": {"Description": "For preparing food, which might have various effects on the player's stats."},
+  "Jeweler's Bench": {"Description": "To craft rings, amulets, and other jewelry imbued with magical properties."},
+  "Pottery Wheel": {"Description": "For crafting ceramic items like pots, vases, or magical clay golems."},
+  "Masonry Table": {"Description": "To shape stone for building structures or crafting stone tools and weapons."},
+  "Herbalist's Table": {"Description": "For drying and processing herbs for use in alchemy or cooking."},
+  "Blacksmith's Anvil": {"Description": "For forging and repairing metal tools, weapons, and armor."},
+  "Fishing Station": {"Description": "For crafting fishing rods, nets, and other fishing equipment."},
+  "Scribe's Desk": {"Description": "For creating scrolls, books, and magical inscriptions."},
+  "Glassblower's Furnace": {"Description": "For crafting glass items like bottles, lenses, or decorative objects."},
+  "Apothecary's Station": {"Description": "For creating balms, salves, and other healing items."},
+  "Artificer's Workshop": {"Description": "For crafting mechanical or magical devices and gadgets."},
+  "Tailor's Workbench": {"Description": "For sewing clothing, bags, and other fabric-based items."},
+  "Gem Cutting Table": {"Description": "For cutting and polishing gems to be used in jewelry or magical items."}
+}
